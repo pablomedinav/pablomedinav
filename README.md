@@ -1,128 +1,106 @@
-<div align="center">
+# Pablo Medina Valenzuela
 
-# Hola Soy Pablo Medina Valenzuela 
+**Estudiante de Ingeniería Civil Informática | Universidad de Valparaíso**  
+San Antonio, Región de Valparaíso, Chile
 
-**Estudiante de Ingeniería Civil Informática · Universidad de Valparaíso**  
-**Desarrollo de software | Frontend & Backend | UI/UX | Calidad de software**
+Estudiante de cuarto año de Ingeniería Civil Informática, con experiencia académica en desarrollo de aplicaciones web, diseño de interfaces, integración de sistemas, aseguramiento de calidad de software y redes. He participado en proyectos colaborativos con responsabilidades en frontend, backend, UI/UX y análisis de soluciones tecnológicas.
 
-San Antonio, Región de Valparaíso, Chile  
-Universidad de Valparaíso · 2023–actualidad · Egreso estimado: 2029  
-En búsqueda de oportunidades de práctica profesional en informática
+Me interesa el desarrollo de software y la aplicación de tecnologías para resolver problemas concretos. Actualmente busco oportunidades de práctica profesional en las que pueda aportar mis conocimientos y continuar desarrollándome.
 
-[**LinkedIn**](https://www.linkedin.com/in/pablo-medina-valenzuela-a17005271/) · [**Correo**](mailto:pablomv379@gmail.com) · [**Currículum (PDF)**](cv/CV_Pablo_Medina.pdf)
+[LinkedIn](https://www.linkedin.com/in/pablo-medina-valenzuela-a17005271/) · [Currículum](cv/CV_Pablo_Medina.pdf) · [Correo electrónico](mailto:pablomv379@gmail.com)
 
-</div>
+## Competencias técnicas
 
----
-
-## Sobre mí
-
-Soy estudiante de cuarto año de **Ingeniería Civil Informática** en la **Universidad de Valparaíso**. Durante mi formación he participado en proyectos de desarrollo web, aplicaciones móviles, integración de pagos, aseguramiento de calidad de software e infraestructura de redes.
-
-Me interesa tanto construir soluciones funcionales como diseñar interfaces claras y fáciles de utilizar. He colaborado en equipos académicos con distintas responsabilidades, desde el **desarrollo frontend y backend** hasta el **diseño UI/UX**, la planificación y las pruebas.
-
-También me interesan la **transformación digital**, la **inteligencia artificial** y los **modelos de lenguaje (LLM)**. Actualmente busco una oportunidad para seguir aprendiendo y aportar en proyectos reales.
-
-## Habilidades técnicas
-
-| Área | Conocimientos y herramientas |
+| Área | Tecnologías y conocimientos |
 | --- | --- |
-| **Lenguajes** | Python, Java, C, C++, Go, JavaScript, HTML y CSS |
-| **Frontend y diseño** | Next.js, Astro, Preact, diseño de interfaces, UI/UX, organización de flujos y pantallas |
-| **Backend e integración** | FastAPI, Flask, APIs REST, arquitectura de microservicios e integración de Stripe Elements en entorno de prueba |
-| **Aplicaciones móviles** | Flutter, desarrollo colaborativo de prototipos académicos |
-| **Bases de datos** | Fundamentos de SQL, SQLite y MongoDB; bases de datos relacionales y NoSQL |
-| **Calidad de software (QA)** | Postman, TestLink, Mantis Bug Tracker, pruebas funcionales, de regresión y de API |
-| **Redes e infraestructura** | TCP/IP, IPv4, DNS, DHCP, NAT, Cisco Packet Tracer, Linux y redes de laboratorio |
-| **Trabajo en equipo** | Scrum, historias de usuario, análisis de requerimientos, colaboración entre áreas y documentación |
-| **Idiomas** | Español nativo · Inglés B1 |
+| Lenguajes | Python, Java, C, C++, Go y JavaScript |
+| Desarrollo frontend | HTML, CSS, Next.js, Astro, Preact y diseño UI/UX |
+| Desarrollo backend | FastAPI, Flask, APIs REST y arquitectura de microservicios |
+| Aplicaciones móviles | Flutter |
+| Bases de datos | SQL, SQLite y MongoDB |
+| Calidad de software | Postman, TestLink, Mantis Bug Tracker, pruebas funcionales, de regresión y de API |
+| Redes e infraestructura | TCP/IP, IPv4, DNS, DHCP, NAT, Cisco Packet Tracer y Linux |
+| Metodologías y herramientas | Git, GitHub, Scrum, análisis de requerimientos y documentación técnica |
 
-> Las tecnologías indicadas corresponden a conocimientos académicos y a herramientas utilizadas en proyectos individuales o de equipo; las contribuciones concretas se describen a continuación.
+## Proyectos académicos
 
-## Proyectos destacados
+### Sistema de Gestión de Almacén El Vecino | 2025
 
-### Sistema de Gestión de Almacén El Vecino · 2025
+**Participación:** desarrollo frontend y backend; diseño y distribución de la interfaz.
 
-**Rol:** Desarrollo frontend y backend; aportes al diseño y distribución de la interfaz.
+Sistema web orientado a la gestión de inventario, ventas y operaciones de un almacén.
 
-Plataforma académica para apoyar la gestión de inventario, ventas y operaciones de un almacén.
+- Colaboré en la implementación de funcionalidades tanto del servidor como de la interfaz.
+- Participé en las decisiones sobre diseño visual, distribución de pantallas y organización de los flujos de uso.
+- **Tecnologías del equipo:** Python, FastAPI, Astro, Preact, SQLite y MongoDB.
 
-- Colaboré en funcionalidades tanto del **frontend como del backend**.
-- Participé en la elección del diseño visual, la distribución de pantallas y la organización de los flujos de uso.
-- Trabajé con un equipo que utilizó **Python, FastAPI, Astro, Preact, SQLite y MongoDB**.
+### TicketU — Módulo de pagos | 2026
 
-### TicketU — Módulo de pagos · 2026
+**Participación:** desarrollo frontend y diseño UI/UX.
 
-**Rol:** Desarrollo frontend y UI/UX del módulo de pagos.
+Módulo de pagos para una plataforma universitaria de venta de entradas con arquitectura de microservicios.
 
-Proyecto universitario de una plataforma de venta de entradas basada en microservicios.
+- Trabajé en la interfaz de pago y en su integración con Stripe Elements en un entorno de pruebas.
+- Coordiné aspectos de la experiencia de usuario y del flujo de pago con otros integrantes del equipo.
+- **Tecnologías del módulo:** Next.js y Stripe Elements.
+- **Repositorio del equipo:** [Arquitectura de pagos](https://github.com/Modulos-Pagos/arquitectura-pagos).
 
-- Me encargué del **diseño de interfaz y el frontend** del módulo de pagos.
-- Participé en la construcción de la pantalla de pago y su integración con **Stripe Elements en modo de prueba**, mediante **Next.js**.
-- Colaboré con los equipos de backend, bases de datos y calidad para coordinar el flujo de pagos.
+### DiabeCare | 2025
 
-**Proyecto colaborativo:** [Arquitectura de pagos — repositorio del equipo](https://github.com/Modulos-Pagos/arquitectura-pagos).
+**Participación:** desarrollo de aplicación y diseño de interfaces.
 
-### DiabeCare · 2025
+Aplicación académica de apoyo a personas con diabetes.
 
-**Rol:** Colaboración en el desarrollo de la aplicación y el diseño de interfaz.
+- Colaboré en la estructura visual y la organización de las pantallas del prototipo.
+- Participé en el desarrollo del MVP junto a un equipo que utilizó Flutter y un backend en Python con Flask.
 
-Aplicación académica de apoyo para personas con diabetes.
+### EnergyLife | 2026
 
-- Aporté al estilo visual, la estructura y la organización de las interfaces, priorizando una navegación clara.
-- Participé en el desarrollo de un MVP con **Flutter** y un servicio backend del equipo en **Python y Flask**.
+**Participación:** análisis de requerimientos y diseño de propuesta.
 
-### EnergyLife · 2026
+Propuesta académica de sistema de información para digitalizar la gestión y las ventas en terreno de una distribuidora de bebidas.
 
-**Rol:** Análisis y propuesta de solución digital.
+- Participé en la definición de la solución, su arquitectura propuesta y los flujos del sistema.
+- Colaboré en la planificación, estimación de costos y análisis de riesgos.
+- **Alcance:** propuesta de solución; no corresponde a un sistema desplegado.
 
-Propuesta académica para digitalizar las ventas en terreno y la gestión de una distribuidora de bebidas.
+### Aseguramiento de calidad de software
 
-- Colaboré en el análisis de requerimientos y en la definición de la solución.
-- Participé en la propuesta de arquitectura, la planificación, los costos y la identificación de riesgos.
-- **Fue una propuesta de sistema de información**, no una aplicación presentada como producto desplegado.
+Trabajo académico de validación de una aplicación web.
 
-### Aseguramiento de calidad de software — Prueba de Sistemas
+- Elaboración y ejecución de casos de prueba funcionales y de regresión.
+- Uso de TestLink para documentación, Postman para pruebas de API y Mantis Bug Tracker para gestión de incidencias.
+- Revisión de resultados y trazabilidad entre requerimientos y pruebas.
 
-**Rol:** Trabajo académico en análisis y ejecución de pruebas.
+### Infraestructura de redes
 
-- Participé en la elaboración de **casos de prueba funcionales y de regresión** y en su documentación con **TestLink**.
-- Realicé pruebas de API con **Postman** y colaboré en el seguimiento de incidencias con **Mantis Bug Tracker**.
-- Trabajé con trazabilidad entre requerimientos y pruebas, y revisión de resultados de calidad.
+Proyecto académico de diseño y configuración de una red de laboratorio.
 
-### Infraestructura de redes — Laboratorio de Redes
+- Participación en el diseño de una topología para 38 puntos de conexión.
+- Prácticas con TCP/IP, DNS, DHCP y NAT, y simulaciones mediante Cisco Packet Tracer.
+- Ejercicios de conectividad y servicios en entornos Linux.
 
-**Rol:** Participación en el diseño y las prácticas de infraestructura de laboratorio.
+## Experiencia
 
-- Participé en el diseño de una topología para **38 puntos de conexión**, considerando cableado estructurado y organización del equipamiento.
-- Realicé prácticas relacionadas con **DNS, DHCP, NAT, TCP/IP e IPv4**, y simulaciones en **Cisco Packet Tracer**.
-- Colaboré en ejercicios con servicios web en **Linux** y diagnóstico de conectividad.
+**Arquitecto Digital — Savage Group SpA** | 2026–actualidad  
+Participación en la creación y estructuración digital de la empresa y en iniciativas de presencia digital.
 
-> Estoy organizando y documentando los repositorios de estos proyectos. Iré incorporando enlaces al código, capturas y documentación cuando estén disponibles para publicación.
+**Operador — Sociedad Punta de Lobos** | Temporadas de verano desde 2023  
+Experiencia en operaciones, coordinación de tareas, trabajo en equipo y cumplimiento de procedimientos.
 
 ## Formación académica
 
-**Ingeniería Civil Informática** — Universidad de Valparaíso  
-**Marzo 2023 – Actualidad** · Egreso estimado: **2029**
+**Ingeniería Civil Informática — Universidad de Valparaíso**  
+2023–actualidad · Egreso estimado: 2029
 
-**Áreas de formación:** programación, bases de datos, desarrollo web, ingeniería de software, prueba de sistemas, redes de computadores, sistemas operativos y análisis y diseño de soluciones.
+Áreas de formación: programación, bases de datos, desarrollo web, ingeniería y calidad de software, sistemas operativos, redes y análisis y diseño de sistemas.
 
-## Experiencia laboral
-
-- **Arquitecto Digital · Savage Group SpA** (2026–actualidad): participación en la creación y estructuración digital de la empresa y en el desarrollo inicial de la presencia digital de Savage Juice.
-- **Operador · Sociedad Punta de Lobos** (temporadas de verano desde 2023): trabajo operativo con enfoque en responsabilidad, coordinación de equipo y cumplimiento de procedimientos.
+**Idiomas:** español nativo e inglés B1.
 
 ## Contacto
 
-- **Ubicación:** San Antonio, Chile.
 - **Correo:** [pablomv379@gmail.com](mailto:pablomv379@gmail.com)
 - **LinkedIn:** [Pablo Medina Valenzuela](https://www.linkedin.com/in/pablo-medina-valenzuela-a17005271/)
-- **Currículum:** [Ver CV en PDF](cv/CV_Pablo_Medina.pdf)
+- **Currículum:** [CV en PDF](cv/CV_Pablo_Medina.pdf)
 
----
-
-<div align="center">
-
-*Aprendiendo, construyendo y mejorando un proyecto a la vez.*
-
-</div>
+> Los proyectos descritos corresponden a trabajos académicos colaborativos. Las responsabilidades indicadas reflejan mi participación en cada equipo.

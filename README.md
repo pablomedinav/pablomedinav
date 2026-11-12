@@ -84,6 +84,7 @@ Proyecto académico de diseño y configuración de una red de laboratorio.
 
 **Arquitecto Digital — Savage Group SpA** | 2026–actualidad  
 Participación en la creación y estructuración digital de la empresa y en iniciativas de presencia digital.
+[Savage Juice](https://drinkssavage.com/)
 
 **Operador — Sociedad Punta de Lobos** | Temporadas de verano desde 2023  
 Experiencia en operaciones, coordinación de tareas, trabajo en equipo y cumplimiento de procedimientos.

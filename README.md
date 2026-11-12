@@ -91,7 +91,7 @@ Experiencia en operaciones, coordinación de tareas, trabajo en equipo y cumplim
 ## Formación académica
 
 **Ingeniería Civil Informática — Universidad de Valparaíso**  
-2023–actualidad · Egreso estimado: 2029
+2023–actualidad 
 
 Áreas de formación: programación, bases de datos, desarrollo web, ingeniería y calidad de software, sistemas operativos, redes y análisis y diseño de sistemas.
 

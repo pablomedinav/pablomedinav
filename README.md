@@ -102,6 +102,6 @@ Experiencia en operaciones, coordinación de tareas, trabajo en equipo y cumplim
 
 - **Correo:** [pablomv379@gmail.com](mailto:pablomv379@gmail.com)
 - **LinkedIn:** [Pablo Medina Valenzuela](https://www.linkedin.com/in/pablo-medina-valenzuela-a17005271/)
-- **Currículum:** [CV en PDF](cv/CV_Pablo_Medina.pdf)
+- **Currículum:** [CV en PDF](CV/CV_Pablo_Medina.pdf)
 
 > Los proyectos descritos corresponden a trabajos académicos colaborativos. Las responsabilidades indicadas reflejan mi participación en cada equipo.
